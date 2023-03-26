@@ -1,0 +1,7 @@
+
+Considering the following hash: 8d6e34f987851aa599257d3831a1af040886842f. What is the hash type?
+Answer format: *****
+Perform a dictionary attack against the following hash: 8d6e34f987851aa599257d3831a1af040886842f. What is the cracked value? Use rockyou.txt wordlist.
+
+Answer format: ********
+Perform a brute-force attack against the following MD5 hash: e48e13207341b6bffb7fb1622282247b. What is the cracked value? Note the password is a 4 digit number: [0-9][0-9][0-9][0-9]
